@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="cartera.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1066"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="clientes" custom_title="0" dock_id="1" table="4,8:mainclientes"/><dock_state state="000000ff00000000fd00000001000000020000000000000000fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000ffffffff0000011e00ffffff000000000000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1*">-- Consulta 1: cartera total y cantidad de préstamos
+
+SELECT 
+	COUNT(*) AS total_prestamos, 
+	SUM(monto) AS cartera_total,
+	ROUND(AVG(monto), 2) AS monto_promedio
+FROM prestamos;
+
+
+-- Consulta 2: cartera por producto
+
+SELECT 
+	producto, 
+	COUNT(*) AS cantidad_prestamos,
+	SUM(monto) AS total_por_producto
+FROM prestamos
+GROUP BY producto
+ORDER BY total_por_producto DESC;
+
+
+-- Consulta 3: mora total y porcentaje de cartera en riesgo (con JOIN)
+
+SELECT 
+	COUNT(*) AS total_pagos,
+	SUM(CASE WHEN p.dias_atraso &gt; 0 THEN 1 ELSE 0 END) AS pagos_atrasados,
+	ROUND(
+		SUM(CASE WHEN p.dias_atraso &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2
+	) AS porcentaje_mora
+FROM pagos p;
+
+
+-- Consulta 4: mora por producto (aquí sí con JOIN)
+
+SELECT 
+	pr.producto, 
+	COUNT(*) AS total_pagos, 
+	SUM(CASE WHEN pa.dias_atraso &gt; 0 THEN 1 ELSE 0 END) AS pagos_atrasados,
+	ROUND(
+		SUM(CASE WHEN pa.dias_atraso &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2
+	) AS porcentaje_mora
+FROM pagos pa
+JOIN prestamos pr ON pa.prestamo_id = pr.prestamo_id
+GROUP BY pr.producto
+ORDER BY porcentaje_mora DESC;
+
+
+/* 
+
+Consulta 5: mora por ocupación del cliente (uniendo las 3 tablas)
+
+Aquí vamos a unir clientes, prestamos y pagos al mismo tiempo — para ver si el 
+tipo de ocupación del cliente influye en la mora.
+
+*/
+
+
+SELECT 
+	c.ocupacion, 
+	COUNT(*) AS total_pagos, 
+	SUM(CASE WHEN pa.dias_atraso &gt; 0 THEN 1 ELSE 0 END) AS pagos_atrasados,
+	ROUND(
+		SUM(CASE WHEN pa.dias_atraso &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2
+	) AS porcentaje_mora
+FROM pagos pa
+JOIN prestamos pr ON pa.prestamo_id = pr.prestamo_id
+JOIN clientes c ON pr.cliente_id = c.cliente_id
+GROUP BY c.ocupacion
+ORDER BY porcentaje_mora DESC;
+
+
+/*
+
+Consulta 6: usando HAVING para filtrar grupos con mora alta
+
+Esta introduce algo nuevo — HAVING, que es como un WHERE pero para usarse 
+después de un GROUP BY:
+
+*/
+
+SELECT	
+	pr.producto,
+	c.ocupacion,
+	COUNT(*) AS total_pagos, 
+	ROUND(
+		SUM(CASE WHEN pa.dias_atraso &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2
+	) AS porcentaje_mora
+FROM pagos pa
+JOIN prestamos pr ON pa.prestamo_id = pr.prestamo_id
+JOIN clientes c ON pr.cliente_id = c.cliente_id
+GROUP BY pr.producto, c.ocupacion
+HAVING porcentaje_mora &gt; 30
+ORDER BY porcentaje_mora DESC;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
