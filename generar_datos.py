@@ -6,6 +6,7 @@ import random
 
 fake = Faker('es_ES')
 Faker.seed(42)
+random.seed(42)
 
 def generar_clientes(cantidad=500):
     clientes = []
