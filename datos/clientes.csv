@@ -1,501 +1,501 @@
 ﻿cliente_id,nombre,edad,ingreso_mensual,ocupacion,Fecha_registro
-1,Albano Llopis Hierro,61,5004.9,Empresario,2023-07-25
-2,Rafa Calatayud Bonet,38,8010.1,Empleado,2025-04-02
-3,Albino Bueno Gil,68,4806.1,Empresario,2023-08-23
-4,María Cristina Amor,55,4456.1,Independiente,2026-06-09
-5,Pepito Rivas,23,3170.4,Empleado,2023-07-16
-6,Marita Lobo Agudo,35,13870.5,Empleado,2023-01-09
-7,Evita Lobo Cortés,56,6973.8,Empresario,2023-06-30
-8,Aroa Bru Pinto,65,14761.2,Empleado,2022-06-27
-9,Soraya Núñez Lamas,49,15758.5,Empleado,2022-01-12
-10,Lupe Casanovas Pinedo,69,20630.9,Empresario,2022-05-02
-11,Emilia del Fernandez,48,10155.6,Empleado,2022-04-04
-12,Natalio Goñi Mancebo,34,24037.3,Independiente,2022-05-05
-13,Toribio de Pinto,27,4586.8,Empleado,2024-01-11
-14,Mercedes Patiño Cánovas,43,21568.6,Empresario,2024-10-24
-15,Clementina Lasa Bellido,37,20660.4,Empresario,2023-02-13
-16,Pastora de Cárdenas,50,14565.1,Independiente,2025-08-06
-17,Elba Gimenez Morata,26,14920.9,Empresario,2022-02-20
-18,Segismundo de Moles,60,22422.7,Independiente,2025-01-28
-19,Anacleto Galván-Miranda,57,6826.5,Empleado,2023-06-22
-20,Gertrudis Segarra Clavero,23,17378.4,Independiente,2023-12-01
-21,Duilio Jódar Romero,26,21744.6,Empleado,2026-08-17
-22,Fidela Gimenez Chacón,45,8754.4,Empresario,2025-12-31
-23,Apolonia Arévalo Canals,44,6159.7,Independiente,2022-12-18
-24,Ruy Roca Bartolomé,34,17578.9,Empresario,2024-12-08
-25,María Solé Ángel,64,17080.8,Empresario,2023-10-21
-26,Teodora de Carbó,61,6350.6,Empresario,2026-03-26
-27,Rodrigo Nieto-Cantón,36,6176.6,Independiente,2024-02-28
-28,Camila Santiago Acero,38,24764.3,Empresario,2023-11-27
-29,Rafaela Escalona,65,15031.4,Empresario,2025-12-25
-30,Trinidad Martín Vera,41,21464.2,Empleado,2023-05-10
-31,Glauco Cuéllar Abascal,35,20990.6,Independiente,2024-06-03
-32,Agustina Caparrós Parejo,46,8524.2,Empleado,2024-04-12
-33,Ambrosio de Bermúdez,57,22218.3,Independiente,2022-05-24
-34,Sabina Bayón Casas,34,17247.4,Independiente,2022-10-03
-35,Malena Dalmau Landa,62,12824.2,Independiente,2026-02-25
-36,Ileana Cloe Font Mesa,29,8049.1,Empresario,2025-01-21
-37,Isabel Villar Sanmiguel,55,8411.7,Empresario,2022-09-10
-38,Daniel de Neira,48,22701.0,Independiente,2021-11-04
-39,Manola Grau-Giménez,44,7434.7,Empleado,2021-09-22
-40,Paulino Barral Granados,53,13604.1,Empleado,2022-03-28
-41,Tito Murillo Belda,28,5938.9,Empleado,2026-01-14
-42,Emilio del Gargallo,64,11998.6,Empleado,2026-04-02
-43,Porfirio Suárez Herrero,45,11086.4,Independiente,2025-09-08
-44,Celestina Busquets Caballero,54,8156.8,Empresario,2025-05-01
-45,Ileana Reig Solera,21,17806.4,Empleado,2022-02-15
-46,Américo Quevedo Nicolau,64,22407.7,Independiente,2022-08-05
-47,Clemente de Sanabria,70,16921.6,Empleado,2022-11-09
-48,Casandra Lopez Sevillano,39,12282.2,Independiente,2023-10-16
-49,Ismael Cabañas Ayuso,21,23960.9,Empresario,2026-04-06
-50,Arturo Guzmán Delgado,37,24367.5,Empleado,2025-02-13
-51,Juliana García Quero,53,23034.1,Empresario,2022-03-01
-52,Goyo Abril Portero,40,21437.6,Empresario,2023-12-02
-53,Eloísa Rocha Torrecilla,59,6975.5,Independiente,2022-12-24
-54,Eusebio Gelabert,69,6134.9,Empresario,2022-02-28
-55,Paulina Barrera-Mir,21,15976.3,Independiente,2022-02-24
-56,Luís Tapia Valverde,22,5017.0,Independiente,2026-03-08
-57,Ambrosio Verdejo Bernat,40,7887.7,Empleado,2023-03-31
-58,Manuel Bayo Gutierrez,57,23806.4,Empleado,2025-02-05
-59,Victor Hoz Ariño,67,13434.8,Empleado,2022-05-12
-60,Máxima Yáñez Molina,69,14485.9,Empleado,2023-11-19
-61,Nicanor Miralles,29,17344.4,Empresario,2023-09-11
-62,Hector Castro-Marín,31,8463.8,Empresario,2025-07-21
-63,Áurea Belmonte Agustí,48,24198.2,Empresario,2025-07-24
-64,Marcela Armida Beltrán Garcés,69,18923.4,Empleado,2025-12-19
-65,Blas Oller-Bayona,66,9513.6,Empresario,2023-09-28
-66,Elodia Cruz Ríos,62,10902.0,Empresario,2026-04-14
-67,Mariano Sancho Ángel Aguiló,49,5222.6,Empleado,2026-05-20
-68,Natanael Baldomero Cañizares Lamas,25,10106.9,Empresario,2022-08-24
-69,Ramiro Cortés Lladó,56,7677.6,Empleado,2024-01-23
-70,Clementina Paca Novoa Frutos,21,4097.3,Empresario,2023-11-29
-71,Laura Iglesias,24,7651.2,Empleado,2022-02-04
-72,Maximiliano Roda Lloret,42,4094.3,Empleado,2022-01-14
-73,Flavio Castrillo Juárez,38,17552.0,Empleado,2023-01-15
-74,Mamen Roma Agustí,55,5477.0,Empresario,2022-08-13
-75,Vasco Company Araujo,57,13135.1,Independiente,2024-10-21
-76,Mamen Colomer-Ropero,47,6784.2,Empleado,2022-09-30
-77,Fabio Pastor Ariño,63,12198.7,Independiente,2024-09-15
-78,Néstor Iborra,47,13008.1,Empresario,2022-07-16
-79,Reyna Ramos Cortes,24,17650.7,Empresario,2023-09-05
-80,Salomón Elorza Revilla,27,3863.8,Empresario,2021-11-16
-81,Rafa Márquez Requena,42,20513.3,Empleado,2023-10-11
-82,Cebrián Campoy-Piñeiro,36,6810.8,Empresario,2021-12-29
-83,Consuela Flores Seguí,49,5654.1,Empleado,2024-08-21
-84,Segismundo Rómulo Goñi Gisbert,38,12909.1,Empleado,2021-11-12
-85,Heraclio Moya,49,20680.5,Empresario,2024-01-13
-86,Rolando Lorenzo Ortega,27,3638.2,Empresario,2025-12-30
-87,Nidia Muñoz Amorós,21,24302.4,Empleado,2022-08-24
-88,Chuy Lara-Arenas,31,11644.3,Independiente,2022-08-02
-89,Irma Fabiola Mir Rubio,34,21954.6,Empleado,2026-01-05
-90,Guadalupe Falcón Iñiguez,31,11026.9,Independiente,2022-01-15
-91,Abigaíl Vizcaíno Figueras,37,23346.7,Independiente,2024-10-05
-92,Anastasia Murillo Mir,39,12017.7,Empresario,2022-09-22
-93,José Luis Fabián Real Morera,56,17392.1,Independiente,2025-02-01
-94,Leonel Bernardo Feliu Rivero,30,6772.7,Empleado,2024-11-20
-95,Mario Mascaró Ramis,24,15531.6,Empresario,2026-04-29
-96,Evaristo Madrid Gallo,24,19329.5,Empleado,2025-04-27
-97,María Dolores Montserrat-Sola,24,15644.0,Empresario,2025-06-03
-98,Nereida García Vicente,54,6042.2,Empresario,2025-09-09
-99,Narciso Blazquez Luz,26,21655.2,Empleado,2026-01-18
-100,Eva María Araceli Gutierrez Menéndez,59,4029.1,Empleado,2023-07-29
-101,Candelario Amat,46,5197.4,Empresario,2022-01-21
-102,Jordán de Sarabia,36,15525.7,Empleado,2025-03-10
-103,Charo Plana-Urrutia,60,4344.6,Empresario,2025-01-23
-104,Candelario de Campillo,58,15217.6,Independiente,2025-04-12
-105,Chus del Ayllón,37,7095.8,Empresario,2026-05-28
-106,Álvaro de Sastre,41,7870.4,Independiente,2022-10-19
-107,Natividad Molins Salas,29,17613.0,Independiente,2025-12-16
-108,Selena Salmerón Cuenca,50,9614.0,Empleado,2025-09-13
-109,Dora Huertas Lluch,21,12811.4,Empresario,2026-02-05
-110,Maura Haro Llobet,27,4148.4,Empleado,2025-05-28
-111,Pepe Macias Guitart,53,8467.0,Independiente,2023-12-23
-112,Esther Berrocal Chacón,25,22283.6,Independiente,2022-12-12
-113,Gregorio de Gargallo,39,6049.3,Empresario,2022-03-18
-114,Griselda Muro Solano,66,9306.6,Empresario,2025-03-14
-115,Cristian Rivera Porras,54,2676.0,Empresario,2026-08-19
-116,Tiburcio Pintor Tapia,40,23464.5,Empleado,2021-09-18
-117,Emma Porta Rius,29,8450.5,Empleado,2026-03-30
-118,Rosalía de Torrents,68,14947.5,Independiente,2023-07-13
-119,Isaías Torralba-Andres,39,16108.7,Empresario,2024-12-21
-120,Nayara Quiroga Dalmau,42,7080.9,Empresario,2025-08-22
-121,María Amores Prada,37,13871.7,Independiente,2026-06-19
-122,Ariel Romero Cerdá,24,4576.7,Independiente,2025-08-04
-123,Amador Juan Pinilla,38,3492.0,Independiente,2024-06-13
-124,Javi Morillo,70,5443.4,Independiente,2024-07-14
-125,Eligia Robles Iniesta,31,19177.7,Empresario,2022-05-12
-126,Agustina Azorin Olmo,66,12123.0,Empleado,2023-07-28
-127,Rosario Arjona Anguita,28,4193.0,Empresario,2023-10-08
-128,Simón Almagro,30,14775.8,Independiente,2022-12-17
-129,Bernardino del Carbó,58,14931.8,Independiente,2026-06-18
-130,Joan Jaén,29,3441.1,Independiente,2024-10-20
-131,Marcio Carbó Céspedes,23,22725.8,Empleado,2024-04-23
-132,Luis Miguel Amigó Mesa,64,8114.4,Empleado,2026-07-24
-133,Gisela Fiol Benitez,43,20052.6,Independiente,2023-09-24
-134,Pablo Mata Carrillo,60,19363.2,Empleado,2026-06-24
-135,Fulgencio Romero Pellicer,31,24464.6,Empleado,2022-04-02
-136,Miriam Nogueira,47,3057.7,Empresario,2021-10-09
-137,Sandra Trillo Camacho,42,20103.7,Independiente,2025-05-08
-138,Mercedes Segura Coronado,63,21941.4,Empleado,2025-05-15
-139,Quique Vélez León,38,6082.0,Empresario,2026-03-30
-140,Josefa Ruano Ledesma,27,11107.2,Empleado,2024-05-28
-141,Severo de Lorenzo,51,7504.8,Independiente,2025-07-01
-142,Remigio del Pinilla,43,9366.8,Empleado,2024-07-11
-143,Jose Miguel Morcillo Espada,35,3032.4,Empleado,2025-10-23
-144,Galo Jordán,46,9885.9,Empleado,2024-07-23
-145,Valerio Llorente-Agustín,70,8780.3,Empresario,2026-01-22
-146,Aristides Hernández,53,11492.8,Empresario,2025-02-13
-147,Manu Hernandez Tamayo,42,23632.8,Empleado,2025-11-02
-148,Rosa María Alemany Buendía,37,6517.8,Independiente,2024-03-02
-149,Hermenegildo de Medina,23,4939.1,Independiente,2026-08-11
-150,Juana Núñez Roig,43,18892.3,Independiente,2026-05-06
-151,Feliciana Santiago Lillo,48,16139.7,Empresario,2024-04-09
-152,David Carrillo-Fernández,28,11166.9,Empresario,2024-05-07
-153,Ramiro Esteve Feliu,33,8231.3,Empresario,2023-07-04
-154,Eliana Zamorano Luna,48,2538.1,Empresario,2022-07-09
-155,Eusebio Gordillo,64,18687.2,Empresario,2024-09-25
-156,Eutropio Alcalá Castañeda,68,17589.1,Independiente,2023-12-31
-157,Amando Manzano Cases,48,4074.4,Empresario,2025-11-03
-158,Tristán Alberola Luís,42,16521.0,Empresario,2025-08-28
-159,Isabela Niño Espinosa,28,18694.5,Independiente,2022-02-06
-160,Tomás Tejedor-Carbonell,53,9458.9,Independiente,2022-03-22
-161,Leandra Benavent Baeza,41,11554.0,Independiente,2022-12-15
-162,Santiago Mateu Blázquez,56,5364.0,Independiente,2023-10-11
-163,León Rico Gonzalez,63,23658.2,Empresario,2026-02-09
-164,Javiera Salas Martinez,68,22813.1,Empresario,2025-04-24
-165,Lucas Martín Barrena Cabezas,57,9271.4,Empresario,2023-06-07
-166,Eligio Bertrán,21,9337.2,Empleado,2022-12-31
-167,Chema de Crespi,48,20179.6,Empresario,2021-09-08
-168,Javiera Soriano Manuel,62,9750.6,Independiente,2021-12-10
-169,Ernesto del Santiago,49,17701.6,Empresario,2022-04-09
-170,Óscar del Figuerola,51,20359.0,Empresario,2025-04-12
-171,Lalo Gomila Company,31,17324.1,Independiente,2023-12-04
-172,Andrés Felipe Barreda Daza,53,17436.7,Empresario,2024-04-12
-173,Pilar Sara Malo Saavedra,42,4601.2,Empleado,2022-09-21
-174,Noemí Mateu Quevedo,64,9484.4,Empleado,2023-12-24
-175,Luz Uribe,30,3049.6,Empleado,2025-05-22
-176,Marcelino Ariño Rosales,51,16253.7,Empleado,2024-05-28
-177,Dionisia Alba Bravo Granados,50,11824.9,Empresario,2026-07-23
-178,Ainara Leon-Arjona,57,6874.8,Empresario,2023-02-26
-179,Lorenza Salamanca Lobo,45,13623.5,Empleado,2023-03-17
-180,Isa Téllez-Bou,30,17261.3,Empleado,2025-08-30
-181,Guadalupe Mínguez Montesinos,69,21859.9,Empleado,2022-07-21
-182,Fidel Requena Valbuena,70,12065.8,Empleado,2024-02-12
-183,Ruth Arco Sanz,65,14154.0,Empleado,2022-05-31
-184,Dolores Morales Carmona,56,8107.0,Empleado,2025-02-06
-185,Sara Abella,50,5500.1,Independiente,2026-04-12
-186,Haydée Ballester Expósito,63,14450.5,Empresario,2026-01-27
-187,María Ángeles Valentín Salamanca,59,9639.2,Independiente,2022-02-07
-188,Eliseo Castro,60,20837.6,Empresario,2024-02-11
-189,Vanesa Tormo Carrión,48,21187.8,Empresario,2021-11-28
-190,Rosalía Dafne Cuadrado Mercader,49,22687.2,Empresario,2026-05-08
-191,Leoncio Raya Buendía,51,12626.6,Empleado,2023-07-30
-192,Jerónimo Carpio Correa,61,8739.5,Empresario,2025-11-26
-193,José Manuel Patricio Llano Ribes,52,16601.8,Independiente,2025-10-08
-194,Daniela Saura Coca,49,4243.4,Independiente,2024-12-04
-195,Édgar Verdejo,36,8613.6,Independiente,2022-10-29
-196,Emiliano Ribera Nieto,55,4313.0,Empleado,2025-12-25
-197,Segismundo Acedo-Luna,35,11118.3,Empleado,2024-03-15
-198,Marina Tovar-Comas,66,7313.9,Independiente,2025-06-18
-199,Julie del Márquez,47,9944.8,Independiente,2026-05-11
-200,Florinda del Montserrat,47,3901.0,Independiente,2023-04-09
-201,Lucho del Guillen,45,22858.9,Empresario,2025-02-27
-202,Federico Suárez Piquer,65,2939.5,Empresario,2024-12-12
-203,Jose Miguel Arco Cases,45,13232.0,Independiente,2025-12-08
-204,Eusebia Cabrera-Sacristán,40,19453.2,Independiente,2022-07-06
-205,Zaida Saura,55,19319.1,Empresario,2021-10-17
-206,Hernando Cortes Benavides,59,22700.8,Independiente,2025-08-28
-207,Fortunato Puga-Bernat,35,8641.0,Independiente,2024-06-16
-208,Fortunata del Torrents,22,11249.3,Empresario,2026-04-07
-209,Martin Bayona Guitart,64,20458.2,Empresario,2024-02-09
-210,Raúl de Roura,31,21411.4,Empleado,2022-07-02
-211,Iván Delgado Marí,60,14517.8,Independiente,2021-11-28
-212,Fermín Barba Marcos,58,15198.8,Empleado,2024-09-17
-213,Irene Coello Hidalgo,26,16961.9,Empleado,2026-03-08
-214,Marcia Escolano Domínguez,50,6588.9,Independiente,2023-02-25
-215,Marcos Piñeiro Hernando,45,9865.4,Independiente,2025-11-24
-216,Bienvenida Guerra-Serra,41,10093.8,Independiente,2023-10-29
-217,Dominga Agustí Sola,38,19420.2,Independiente,2024-02-10
-218,Camila de Sala,37,21285.5,Independiente,2024-08-08
-219,Emperatriz Rodrigo-Ibáñez,22,19353.0,Empleado,2025-07-20
-220,Conrado Gregorio Tomas Campillo,43,7545.0,Empleado,2023-09-06
-221,Marianela Palomar Marqués,70,24038.9,Empleado,2024-03-05
-222,Severino Priego Llobet,69,3198.2,Empleado,2021-09-25
-223,Teresa Avilés-Valdés,33,21382.6,Empresario,2024-02-06
-224,Marcio del Gilabert,30,7867.3,Independiente,2023-04-13
-225,Dionisia Nidia Cerro Caballero,63,5073.8,Empleado,2021-12-31
-226,Rufino Isidro Aragonés Patiño,50,18238.0,Independiente,2022-10-13
-227,Wálter Marquez Morillo,31,16132.6,Empresario,2025-03-13
-228,Cornelio Catalán Paz,66,5077.0,Empleado,2026-03-07
-229,Zaira Llamas,40,4932.2,Empleado,2023-01-24
-230,Yago Tirado-Marquez,40,15455.4,Independiente,2024-07-18
-231,Joaquín Benet Chico,46,23683.1,Empleado,2023-08-01
-232,Soraya Paz Bosch,25,15822.2,Empresario,2025-01-07
-233,Eligio Casals Sanz,36,4792.8,Independiente,2024-10-19
-234,Luís Piquer-Pera,64,16009.3,Empleado,2022-08-02
-235,Jonatan de Mosquera,57,20109.3,Independiente,2023-07-19
-236,Maximino Simó Matas,55,12138.5,Independiente,2025-02-19
-237,Buenaventura Arrieta Arcos,25,13884.1,Independiente,2024-04-02
-238,Azahar Cabanillas Guitart,21,21615.5,Independiente,2026-03-28
-239,Guillermo Santiago Peláez,27,12254.3,Independiente,2026-04-05
-240,Maristela Cortes Ribera,61,22560.4,Independiente,2022-07-04
-241,María Manuela Raya Losa,66,5942.3,Empleado,2021-12-10
-242,Concha Salcedo Sales,67,14239.3,Empresario,2023-09-03
-243,Ariel Pedrero Palmer,38,16358.0,Empresario,2022-03-07
-244,Eliana Falcó Carvajal,70,13378.7,Independiente,2025-07-13
-245,Natanael Garay Almazán,67,15830.7,Independiente,2022-02-04
-246,Daniela Casas Fuertes,36,21191.4,Empleado,2022-04-01
-247,Claudia de Guijarro,38,22336.7,Empleado,2024-06-16
-248,Rufino Acedo Lluch,69,12955.9,Empresario,2022-11-23
-249,Julián Iglesia Díaz,63,11027.3,Empleado,2022-08-07
-250,Blas Alcolea Palma,52,21646.4,Empleado,2023-09-09
-251,Etelvina Alcázar-Dávila,52,7272.7,Independiente,2023-12-03
-252,Bernardino Robledo Zorrilla,42,8792.3,Empresario,2022-08-19
-253,Jordán Sanabria Paredes,65,22302.4,Empresario,2026-01-11
-254,Asunción Sans-Vara,21,14124.1,Empleado,2023-07-20
-255,Amada Pascuala Vázquez Mata,26,7930.5,Independiente,2025-07-24
-256,Américo Tejero Querol,52,14991.5,Empleado,2025-04-16
-257,Jose Luis Salcedo Beltrán,65,13212.1,Empresario,2022-05-09
-258,María Fernanda Colomer Bastida,52,12583.9,Empleado,2022-09-27
-259,Mateo Morcillo-Piquer,26,9120.3,Independiente,2026-03-06
-260,Javi José Antonio Ros Cabezas,65,7974.4,Empresario,2022-08-21
-261,Palmira de Ropero,58,10803.0,Empresario,2025-07-03
-262,Hilario del Santana,54,10234.5,Empresario,2025-01-20
-263,Pastora Bustamante Milla,56,9942.8,Empresario,2025-04-17
-264,Natalia Jara Perelló,50,8595.6,Independiente,2022-12-18
-265,Anabel Bou Blázquez,35,5214.8,Empleado,2022-06-16
-266,Ariadna Peralta Castillo,41,5190.0,Empresario,2026-05-25
-267,Lázaro Murcia Carvajal,69,18028.7,Empleado,2025-02-27
-268,Trinidad Rocha Aznar,34,19118.6,Independiente,2024-02-10
-269,Esperanza Feliciana Calleja Vera,67,15765.7,Empresario,2023-06-22
-270,Nando Toledo Gomez,59,8867.5,Empleado,2022-08-02
-271,Sonia Pedrero Cardona,33,9165.5,Independiente,2024-01-13
-272,Coral Romeu-Amo,32,9301.0,Empresario,2023-12-09
-273,Cipriano Llano Mendizábal,55,5348.1,Empleado,2024-07-21
-274,Adelaida Escudero Clemente,24,14950.6,Empresario,2026-06-25
-275,Anastasia Cifuentes Anglada,29,16852.1,Independiente,2022-06-12
-276,Concepción Peñalver,27,22136.2,Empresario,2025-03-27
-277,Evita Criado Pelayo,39,13061.4,Independiente,2024-04-25
-278,Renata Blazquez Badía,42,6648.2,Empleado,2022-12-27
-279,René Ayala Bilbao,37,23673.9,Independiente,2023-12-24
-280,Nadia Rodrigo Torralba,28,20997.6,Independiente,2025-06-04
-281,Elena Garriga Vila,52,4166.8,Empresario,2022-08-19
-282,Irene Cantero Luque,64,3706.2,Empleado,2025-10-20
-283,Natividad Mendez,57,23855.3,Empleado,2022-01-19
-284,Hector de Aguilera,36,5165.2,Independiente,2023-05-28
-285,Curro Rodolfo Cervantes Jaume,59,15912.9,Empresario,2024-02-16
-286,Azeneth Aguilera Valencia,35,19953.1,Independiente,2025-04-29
-287,Berto Pinto Grau,49,22941.3,Independiente,2025-12-02
-288,Serafina del Bello,58,24775.7,Independiente,2025-01-15
-289,Isaías Alfonso Segura,57,16473.1,Empresario,2022-04-29
-290,Maricela Román Quiroga,68,4732.8,Empleado,2025-03-20
-291,Baudelio Hermenegildo Almansa Morcillo,61,7248.1,Empresario,2023-02-15
-292,Jimena Selena Paredes Borja,26,6033.8,Empleado,2025-05-18
-293,Domingo Ruano Pérez,56,4189.0,Empleado,2026-02-13
-294,Hector Menéndez Nicolás,47,12636.3,Empresario,2023-07-20
-295,Reyes Diéguez Benito,51,9053.3,Empleado,2026-01-03
-296,Juan Manuel Viana Ferrera,39,18406.5,Empresario,2024-08-20
-297,Pascuala Coloma Guzman,50,4101.5,Empleado,2022-07-16
-298,Eduardo Figueroa Durán,37,20226.1,Empresario,2022-12-18
-299,Chus Uribe Simó,58,17376.6,Empleado,2026-06-17
-300,Jacinta Moraleda-Molina,48,5082.5,Empleado,2022-12-13
-301,Anabel Somoza Salamanca,62,5852.3,Independiente,2024-03-28
-302,Manolo Barbero-Ortiz,30,4106.7,Empleado,2025-12-24
-303,Fabián Serrano Sans,40,15888.5,Empresario,2021-12-25
-304,Gerónimo Madrid Benítez,39,12381.0,Independiente,2022-06-07
-305,Martirio Lilia Planas Sevillano,65,9342.1,Independiente,2026-08-08
-306,Rosa María de Sandoval,38,13760.6,Independiente,2026-07-12
-307,Felipe Tamarit,49,4309.9,Empleado,2025-12-05
-308,Américo Sanjuan Calderón,48,19027.0,Empresario,2024-08-02
-309,José Antonio Duque Ariza,37,3082.0,Empleado,2023-10-09
-310,Isabel Zamora Yáñez,64,21309.1,Empresario,2023-01-06
-311,Florencia Luna Ponce,58,23892.7,Empresario,2025-02-21
-312,Nidia Badía Nadal,38,15465.6,Empleado,2022-03-23
-313,Arcelia Pomares Luz,51,14176.7,Independiente,2023-10-22
-314,Trinidad Brígida Mínguez Bertrán,38,6583.5,Empresario,2026-08-15
-315,Álvaro Olmo Menéndez,48,16782.7,Independiente,2024-12-30
-316,Manuel Blazquez Menendez,26,13075.2,Independiente,2026-06-02
-317,Milagros Moya Castell,42,9723.8,Empleado,2026-02-21
-318,Mohamed Roda Verdugo,31,9920.6,Empresario,2024-09-28
-319,Gerardo Mendizábal Escribano,52,8984.9,Independiente,2023-06-27
-320,Raquel Torre Fernandez,69,14877.2,Independiente,2023-08-04
-321,Casemiro Berenguer Marqués,26,9576.6,Independiente,2022-07-11
-322,Regina Zurita,28,24329.2,Independiente,2021-12-26
-323,Valentina Castro Peñas,53,21060.9,Empleado,2022-12-23
-324,Cipriano Daza Río,63,22060.8,Independiente,2022-01-13
-325,Filomena Gámez Saldaña,47,3719.6,Empresario,2024-02-02
-326,Cruz Haro Mendoza,44,16509.3,Independiente,2025-08-27
-327,Gerónimo Saez,61,12445.9,Empleado,2025-08-04
-328,Roque Graciano Valverde Álamo,34,8508.8,Empleado,2025-03-23
-329,Sebastian Flores Chacón,39,12357.6,Empresario,2023-10-16
-330,Miguel Ángel Terrón Pera,52,5232.1,Empresario,2026-05-19
-331,Pelayo Villalobos Casanovas,59,20484.6,Empresario,2024-02-02
-332,Rico Cueto Llamas,31,9491.9,Empleado,2025-06-26
-333,Brunilda Ruiz,56,11679.8,Empleado,2022-06-11
-334,Sebastian del Olmedo,28,12882.6,Empleado,2021-11-21
-335,Amelia Prieto Vallés,62,21223.2,Independiente,2024-11-04
-336,Guadalupe de Perera,66,9066.9,Empresario,2023-07-29
-337,Feliciano Cabeza Naranjo,38,11848.5,Independiente,2022-11-27
-338,Alejo Madrid Sureda,51,7983.9,Empresario,2022-11-05
-339,Jacinta Adadia Bernad,30,11130.7,Empresario,2021-10-29
-340,Cándido Conde-Álamo,53,19291.6,Empleado,2025-04-07
-341,Román Maldonado Gámez,25,8715.6,Independiente,2024-03-23
-342,Amado Gómez Rivas,42,23520.6,Empresario,2025-07-21
-343,Bartolomé Valero Alegre,38,20962.4,Independiente,2026-01-18
-344,Dalila Cobo-Manuel,67,9217.5,Empresario,2025-04-25
-345,Marino Osorio Hernandez,58,24975.3,Independiente,2026-07-08
-346,Cayetana Boada Zabaleta,30,12547.3,Independiente,2024-09-24
-347,Juan José Vera Vera,43,9979.9,Empresario,2026-05-18
-348,Guiomar Soriano Arranz,45,12745.3,Independiente,2024-12-14
-349,Dolores Alegre Palau,33,24567.4,Empleado,2022-03-28
-350,Dalila Calleja Márquez,57,11116.8,Independiente,2022-10-19
-351,Gabriel Nevado Díez,23,9659.0,Independiente,2025-08-13
-352,Melania Esparza Cepeda,66,23052.2,Independiente,2022-03-15
-353,Alicia Marcos Fortuny,45,24739.3,Empresario,2022-01-14
-354,Venceslás Arnaiz,30,13644.9,Empleado,2024-05-07
-355,José Ángel Heliodoro Sáenz Isern,29,13801.6,Empresario,2021-12-22
-356,Eric Palau,42,22068.3,Independiente,2022-01-26
-357,Elena Casanova Pedro,27,14333.9,Independiente,2025-05-19
-358,Perlita Sabater Pomares,21,18755.0,Independiente,2024-07-19
-359,Jose Ramón Valencia Pedrero,62,24324.0,Empleado,2026-01-30
-360,Salvador Blanch-Rodriguez,51,20084.3,Independiente,2022-05-03
-361,María Cristina Escribano Marin,42,16523.3,Independiente,2024-05-24
-362,Aníbal Mosquera Marqués,62,4307.1,Independiente,2024-04-09
-363,María Cristina Rojas Diaz,64,21835.2,Independiente,2025-06-10
-364,Itziar Arnal Osorio,41,16603.0,Independiente,2025-05-13
-365,Miguel Barceló-Benavides,55,3307.7,Empleado,2025-02-13
-366,Loida Cuesta Anguita,36,16701.1,Independiente,2022-11-17
-367,Nidia Ricarda Ríos Arana,35,19302.2,Independiente,2022-09-27
-368,Desiderio Pazos Paredes,27,19608.3,Empresario,2024-12-02
-369,Alejandra Corral-Sandoval,27,12482.8,Empresario,2024-10-26
-370,Isidora Benítez Cervantes,40,22827.0,Empleado,2026-03-02
-371,Gisela Miralles Lopez,41,20413.2,Independiente,2023-10-15
-372,Albert Estrada Valera,43,10933.9,Empleado,2026-01-25
-373,Zaira Carranza Juárez,36,14451.2,Empresario,2023-11-17
-374,Clotilde Machado Tudela,64,20331.7,Empleado,2023-05-14
-375,Borja Benavent Sans,32,4276.8,Independiente,2023-02-18
-376,Antonia Montenegro Olivera,60,17870.5,Independiente,2022-03-20
-377,Macarena del Marín,58,5720.1,Independiente,2023-01-02
-378,Régulo Pardo Verdugo,61,8214.5,Independiente,2023-07-28
-379,Cornelio Chamorro Guzmán,63,2711.4,Independiente,2025-11-12
-380,Geraldo Peinado Solsona,39,17746.2,Empleado,2026-05-10
-381,Mariano Boix Bastida,25,12438.9,Independiente,2024-04-17
-382,Paca Tejero Zaragoza,58,9231.0,Independiente,2025-02-27
-383,Sandra Benavent Casares,65,8127.2,Independiente,2024-05-11
-384,Jafet Solano Villar,33,24985.9,Independiente,2024-08-05
-385,Valentín Espada Castelló,27,7837.1,Empresario,2025-05-06
-386,Zaida Baquero,43,15433.3,Empresario,2022-09-20
-387,Calista Mateu,39,2993.6,Empresario,2023-01-24
-388,Felix Gomis Oliva,46,8675.8,Empresario,2026-01-29
-389,Teo Aníbal Iglesia Ferrándiz,64,20012.0,Empleado,2026-05-08
-390,Bernardino Mateo-Bueno,59,19266.4,Independiente,2025-12-09
-391,Manu Correa Donoso,70,20474.4,Empresario,2024-07-14
-392,Alondra Andrade-Bertrán,43,7427.6,Empleado,2022-01-19
-393,Dulce Galvez-Riera,60,8139.1,Empresario,2021-12-03
-394,Vilma Manjón Matas,70,17331.6,Empleado,2025-10-09
-395,Samuel del Martorell,61,4686.2,Empresario,2025-07-10
-396,Omar Barreda Cruz,62,3387.0,Independiente,2025-05-27
-397,Julie Sobrino Frías,23,15540.4,Empresario,2024-07-22
-398,Bienvenida Estefanía Montaña Ojeda,29,4528.0,Independiente,2025-01-20
-399,Ricardo Pellicer Villa,41,19318.3,Empleado,2026-06-10
-400,Feliciano Herranz Soler,33,5473.6,Empresario,2022-09-15
-401,Jafet Huguet-Chico,44,14444.2,Independiente,2022-06-27
-402,Espiridión Plana Ripoll,31,8281.8,Independiente,2023-10-11
-403,Santos Morán Milla,39,19297.6,Independiente,2023-04-12
-404,Josep Villa Solera,28,13037.5,Empleado,2025-11-27
-405,Jose Ramón Aitor Bosch Pozuelo,30,19468.4,Empleado,2025-12-18
-406,Dalila Garrido Osorio,64,18794.9,Independiente,2022-01-29
-407,Epifanio Uría Sosa,56,10729.9,Independiente,2024-02-04
-408,Adelia de Rosa,21,8450.3,Empleado,2022-10-21
-409,Prudencio Paz-Quintana,50,10793.2,Empresario,2024-10-10
-410,Herberto Azcona Ferreras,64,8398.6,Independiente,2024-09-30
-411,Elvira de Pomares,61,23656.6,Empleado,2025-12-14
-412,Ramona Losa Carrera,64,7761.0,Empleado,2022-10-04
-413,Haroldo Perea Nicolau,60,22395.3,Empresario,2026-05-30
-414,Priscila Cobos Flor,41,23093.3,Empleado,2025-12-29
-415,Leyre Arjona Arrieta,62,3922.4,Independiente,2021-12-29
-416,Pepe Mínguez Sáez,65,9299.3,Independiente,2026-01-30
-417,Brígida Villalba Chaves,28,5645.0,Empleado,2024-06-14
-418,Esther Candelas Pozo Martínez,40,24908.4,Empleado,2024-07-11
-419,Saturnina Vergara,27,7783.0,Empresario,2026-03-11
-420,Olga Marí Taboada,29,11244.5,Independiente,2021-10-21
-421,Eusebia Canals Riera,63,23861.1,Empresario,2026-08-18
-422,Rómulo Vinicio Amor Sánchez,55,11930.4,Empresario,2023-12-03
-423,Maricruz Goñi-Aznar,67,5976.8,Independiente,2026-08-17
-424,Carlota Zamora Pinto,62,4728.0,Independiente,2022-12-03
-425,Alcides de Farré,60,11682.6,Independiente,2021-10-28
-426,Estefanía Riquelme Cordero,23,18031.3,Empleado,2025-03-06
-427,Hernán Valls,49,12505.7,Empleado,2025-09-04
-428,Patricio Cervera Villena,44,4735.5,Empresario,2023-06-06
-429,Eufemia del Zaragoza,44,14750.5,Empresario,2024-11-13
-430,Carmela Segura Noriega,43,3862.4,Independiente,2026-04-24
-431,Nicolasa Lamas Tomé,33,24284.7,Independiente,2023-04-20
-432,Emilio del Gomila,26,17412.3,Empresario,2024-03-12
-433,Pastor Cristóbal Torrijos Molins,61,15935.8,Empleado,2025-09-29
-434,Manuelita Llanos Maestre,24,20202.9,Empleado,2022-09-13
-435,Nicolasa Pino-Prat,29,20207.0,Empleado,2024-08-07
-436,Espiridión Arnal Maestre,25,21170.9,Empresario,2022-05-03
-437,Ángela Salamanca Jerez,34,15693.6,Empleado,2025-09-27
-438,Cosme Linares,42,19923.3,Empresario,2026-06-12
-439,Bruno Canales-Heras,21,8738.7,Empleado,2023-09-23
-440,Nicanor Gonzalez Guerrero,29,14654.8,Empleado,2022-02-10
-441,Hilario Murillo Sureda,28,17373.8,Empleado,2022-07-09
-442,Abilio Cruz Ramírez,29,2834.4,Empleado,2025-09-16
-443,Modesta Flores Madrigal,58,9784.9,Empleado,2024-05-24
-444,Mohamed Amor Borrás Guerra,37,3679.0,Empresario,2026-03-20
-445,Yago Díez Rios,47,14336.9,Empresario,2023-02-28
-446,Silvio Puerta Valbuena,25,13215.5,Independiente,2023-04-01
-447,Urbano Alejo Agullo Martín,53,15857.5,Independiente,2026-06-30
-448,Ascensión Áurea Naranjo Luís,53,7484.9,Empresario,2025-07-12
-449,Luciana del Cañete,23,18863.0,Empresario,2025-12-14
-450,Elena Fernández Capdevila,54,9286.7,Empresario,2024-06-23
-451,Pío Segarra Jimenez,22,3868.6,Independiente,2023-04-01
-452,Rafa Navas Marquez,46,12091.2,Empleado,2026-06-30
-453,Chucho Ramirez,52,18529.0,Independiente,2025-04-20
-454,Eugenia Bolaños,25,22733.5,Independiente,2025-01-27
-455,Cirino Checa Tejada,59,5837.5,Empleado,2024-06-01
-456,Abraham del Pla,38,16547.1,Empresario,2023-09-01
-457,Primitiva Lasa Murcia,56,18523.4,Independiente,2024-03-26
-458,Paloma Alberdi-Jurado,59,14437.5,Independiente,2024-09-21
-459,Américo de Solana,53,16122.1,Empleado,2024-04-10
-460,Hermenegildo Valverde Mercader,65,5074.3,Empresario,2022-08-30
-461,Gerónimo Marino Giner Gilabert,62,22248.4,Empresario,2022-10-19
-462,Calista Sanz Pereira,67,21973.6,Independiente,2025-03-14
-463,Zaira del Gil,49,22482.0,Independiente,2023-10-08
-464,Trinidad Rocío Bilbao Zaragoza,42,21116.9,Independiente,2025-06-18
-465,Ofelia Pardo,47,18916.3,Independiente,2022-04-30
-466,Aurelia Barrio-Vega,48,9531.8,Independiente,2023-05-21
-467,Lupe Conde-Córdoba,44,23955.8,Empresario,2024-06-15
-468,Isaura Carnero,51,4010.5,Empleado,2023-05-31
-469,Laura Bou-Vicens,26,12217.2,Empresario,2025-06-15
-470,Javi Catalán Vilanova,68,10884.6,Empleado,2025-03-13
-471,Marcela Barco Sevilla,56,3849.6,Empresario,2024-04-14
-472,Hector Iñiguez Acero,56,9917.0,Empleado,2023-07-08
-473,Angelina Arrieta-Roda,47,10456.0,Empresario,2024-08-05
-474,Kike Barrena Bayón,69,12016.1,Empresario,2025-09-05
-475,Eric Rebollo Escolano,24,24289.0,Empresario,2022-10-25
-476,Florentina Piñeiro Sanabria,40,10412.0,Empresario,2024-11-15
-477,Anita Cañas Oliveras,53,7286.6,Empresario,2022-09-03
-478,Julio César Pozo Ángel,51,7545.5,Empleado,2022-09-30
-479,Silvestre de Alsina,43,21520.9,Independiente,2024-03-14
-480,Nerea Rodrigo Pinilla,28,19658.6,Empresario,2023-08-14
-481,Jeremías del Cortina,35,20662.5,Empresario,2024-01-04
-482,Urbano Carbajo,70,20914.6,Empresario,2021-12-09
-483,María Luisa Alcázar Hernandez,64,16960.7,Empleado,2023-06-02
-484,Aureliano Aragonés Salom,59,23404.4,Empresario,2022-01-29
-485,Raimundo de Quesada,38,3151.4,Independiente,2025-05-25
-486,Julián de Barbero,65,19654.2,Independiente,2022-11-09
-487,Ema Guillén,43,2637.4,Empleado,2026-07-25
-488,Maricruz Montes Gálvez,57,17290.3,Empleado,2024-03-25
-489,Natalio Vázquez Giner,30,19171.8,Empleado,2025-03-07
-490,Emigdio Américo Díez Roldán,26,19287.5,Empleado,2026-05-23
-491,Amanda Ocaña Piquer,45,11946.2,Independiente,2026-02-15
-492,Obdulia Rico Real,31,10826.2,Empresario,2022-12-07
-493,Godofredo Cirino Sáenz Hernando,41,19978.8,Empresario,2023-08-01
-494,Timoteo Paulino Cobos Sierra,59,4411.5,Empleado,2022-02-26
-495,Haydée del Cañete,30,6041.7,Empresario,2024-12-19
-496,Edu de Murillo,24,17664.3,Independiente,2022-05-03
-497,Soraya Peláez Bru,49,17393.6,Independiente,2026-03-22
-498,Amancio Ledesma,59,12446.0,Independiente,2024-11-14
-499,María Cristina Almudena Beltran Fabra,34,19486.2,Empleado,2026-08-30
-500,Concha del Gallardo,43,12173.1,Independiente,2024-06-30
+1,Albano Llopis Hierro,61,5004.9,Empresario,2023-07-27
+2,Rafa Calatayud Bonet,38,8010.1,Empleado,2025-04-04
+3,Albino Bueno Gil,68,4806.1,Empresario,2023-08-25
+4,María Cristina Amor,55,4456.1,Independiente,2026-06-11
+5,Pepito Rivas,23,3170.4,Empleado,2023-07-18
+6,Marita Lobo Agudo,35,13870.5,Empleado,2023-01-11
+7,Evita Lobo Cortés,56,6973.8,Empresario,2023-07-02
+8,Aroa Bru Pinto,65,14761.2,Empleado,2022-06-29
+9,Soraya Núñez Lamas,49,15758.5,Empleado,2022-01-14
+10,Lupe Casanovas Pinedo,69,20630.9,Empresario,2022-05-04
+11,Emilia del Fernandez,48,10155.6,Empleado,2022-04-06
+12,Natalio Goñi Mancebo,34,24037.3,Independiente,2022-05-07
+13,Toribio de Pinto,27,4586.8,Empleado,2024-01-13
+14,Mercedes Patiño Cánovas,43,21568.6,Empresario,2024-10-26
+15,Clementina Lasa Bellido,37,20660.4,Empresario,2023-02-15
+16,Pastora de Cárdenas,50,14565.1,Independiente,2025-08-08
+17,Elba Gimenez Morata,26,14920.9,Empresario,2022-02-22
+18,Segismundo de Moles,60,22422.7,Independiente,2025-01-30
+19,Anacleto Galván-Miranda,57,6826.5,Empleado,2023-06-24
+20,Gertrudis Segarra Clavero,23,17378.4,Independiente,2023-12-03
+21,Duilio Jódar Romero,26,21744.6,Empleado,2026-08-19
+22,Fidela Gimenez Chacón,45,8754.4,Empresario,2026-01-02
+23,Apolonia Arévalo Canals,44,6159.7,Independiente,2022-12-20
+24,Ruy Roca Bartolomé,34,17578.9,Empresario,2024-12-10
+25,María Solé Ángel,64,17080.8,Empresario,2023-10-23
+26,Teodora de Carbó,61,6350.6,Empresario,2026-03-28
+27,Rodrigo Nieto-Cantón,36,6176.6,Independiente,2024-03-01
+28,Camila Santiago Acero,38,24764.3,Empresario,2023-11-29
+29,Rafaela Escalona,65,15031.4,Empresario,2025-12-27
+30,Trinidad Martín Vera,41,21464.2,Empleado,2023-05-12
+31,Glauco Cuéllar Abascal,35,20990.6,Independiente,2024-06-05
+32,Agustina Caparrós Parejo,46,8524.2,Empleado,2024-04-14
+33,Ambrosio de Bermúdez,57,22218.3,Independiente,2022-05-26
+34,Sabina Bayón Casas,34,17247.4,Independiente,2022-10-05
+35,Malena Dalmau Landa,62,12824.2,Independiente,2026-02-27
+36,Ileana Cloe Font Mesa,29,8049.1,Empresario,2025-01-23
+37,Isabel Villar Sanmiguel,55,8411.7,Empresario,2022-09-12
+38,Daniel de Neira,48,22701.0,Independiente,2021-11-06
+39,Manola Grau-Giménez,44,7434.7,Empleado,2021-09-24
+40,Paulino Barral Granados,53,13604.1,Empleado,2022-03-30
+41,Tito Murillo Belda,28,5938.9,Empleado,2026-01-16
+42,Emilio del Gargallo,64,11998.6,Empleado,2026-04-04
+43,Porfirio Suárez Herrero,45,11086.4,Independiente,2025-09-10
+44,Celestina Busquets Caballero,54,8156.8,Empresario,2025-05-03
+45,Ileana Reig Solera,21,17806.4,Empleado,2022-02-17
+46,Américo Quevedo Nicolau,64,22407.7,Independiente,2022-08-07
+47,Clemente de Sanabria,70,16921.6,Empleado,2022-11-11
+48,Casandra Lopez Sevillano,39,12282.2,Independiente,2023-10-18
+49,Ismael Cabañas Ayuso,21,23960.9,Empresario,2026-04-08
+50,Arturo Guzmán Delgado,37,24367.5,Empleado,2025-02-15
+51,Juliana García Quero,53,23034.1,Empresario,2022-03-03
+52,Goyo Abril Portero,40,21437.6,Empresario,2023-12-04
+53,Eloísa Rocha Torrecilla,59,6975.5,Independiente,2022-12-26
+54,Eusebio Gelabert,69,6134.9,Empresario,2022-03-02
+55,Paulina Barrera-Mir,21,15976.3,Independiente,2022-02-26
+56,Luís Tapia Valverde,22,5017.0,Independiente,2026-03-10
+57,Ambrosio Verdejo Bernat,40,7887.7,Empleado,2023-04-02
+58,Manuel Bayo Gutierrez,57,23806.4,Empleado,2025-02-07
+59,Victor Hoz Ariño,67,13434.8,Empleado,2022-05-14
+60,Máxima Yáñez Molina,69,14485.9,Empleado,2023-11-21
+61,Nicanor Miralles,29,17344.4,Empresario,2023-09-13
+62,Hector Castro-Marín,31,8463.8,Empresario,2025-07-23
+63,Áurea Belmonte Agustí,48,24198.2,Empresario,2025-07-26
+64,Marcela Armida Beltrán Garcés,69,18923.4,Empleado,2025-12-21
+65,Blas Oller-Bayona,66,9513.6,Empresario,2023-09-30
+66,Elodia Cruz Ríos,62,10902.0,Empresario,2026-04-16
+67,Mariano Sancho Ángel Aguiló,49,5222.6,Empleado,2026-05-22
+68,Natanael Baldomero Cañizares Lamas,25,10106.9,Empresario,2022-08-26
+69,Ramiro Cortés Lladó,56,7677.6,Empleado,2024-01-25
+70,Clementina Paca Novoa Frutos,21,4097.3,Empresario,2023-12-01
+71,Laura Iglesias,24,7651.2,Empleado,2022-02-06
+72,Maximiliano Roda Lloret,42,4094.3,Empleado,2022-01-16
+73,Flavio Castrillo Juárez,38,17552.0,Empleado,2023-01-17
+74,Mamen Roma Agustí,55,5477.0,Empresario,2022-08-15
+75,Vasco Company Araujo,57,13135.1,Independiente,2024-10-23
+76,Mamen Colomer-Ropero,47,6784.2,Empleado,2022-10-02
+77,Fabio Pastor Ariño,63,12198.7,Independiente,2024-09-17
+78,Néstor Iborra,47,13008.1,Empresario,2022-07-18
+79,Reyna Ramos Cortes,24,17650.7,Empresario,2023-09-07
+80,Salomón Elorza Revilla,27,3863.8,Empresario,2021-11-18
+81,Rafa Márquez Requena,42,20513.3,Empleado,2023-10-13
+82,Cebrián Campoy-Piñeiro,36,6810.8,Empresario,2021-12-31
+83,Consuela Flores Seguí,49,5654.1,Empleado,2024-08-23
+84,Segismundo Rómulo Goñi Gisbert,38,12909.1,Empleado,2021-11-14
+85,Heraclio Moya,49,20680.5,Empresario,2024-01-15
+86,Rolando Lorenzo Ortega,27,3638.2,Empresario,2026-01-01
+87,Nidia Muñoz Amorós,21,24302.4,Empleado,2022-08-26
+88,Chuy Lara-Arenas,31,11644.3,Independiente,2022-08-04
+89,Irma Fabiola Mir Rubio,34,21954.6,Empleado,2026-01-07
+90,Guadalupe Falcón Iñiguez,31,11026.9,Independiente,2022-01-17
+91,Abigaíl Vizcaíno Figueras,37,23346.7,Independiente,2024-10-07
+92,Anastasia Murillo Mir,39,12017.7,Empresario,2022-09-24
+93,José Luis Fabián Real Morera,56,17392.1,Independiente,2025-02-03
+94,Leonel Bernardo Feliu Rivero,30,6772.7,Empleado,2024-11-22
+95,Mario Mascaró Ramis,24,15531.6,Empresario,2026-05-01
+96,Evaristo Madrid Gallo,24,19329.5,Empleado,2025-04-29
+97,María Dolores Montserrat-Sola,24,15644.0,Empresario,2025-06-05
+98,Nereida García Vicente,54,6042.2,Empresario,2025-09-11
+99,Narciso Blazquez Luz,26,21655.2,Empleado,2026-01-20
+100,Eva María Araceli Gutierrez Menéndez,59,4029.1,Empleado,2023-07-31
+101,Candelario Amat,46,5197.4,Empresario,2022-01-23
+102,Jordán de Sarabia,36,15525.7,Empleado,2025-03-12
+103,Charo Plana-Urrutia,60,4344.6,Empresario,2025-01-25
+104,Candelario de Campillo,58,15217.6,Independiente,2025-04-14
+105,Chus del Ayllón,37,7095.8,Empresario,2026-05-30
+106,Álvaro de Sastre,41,7870.4,Independiente,2022-10-21
+107,Natividad Molins Salas,29,17613.0,Independiente,2025-12-18
+108,Selena Salmerón Cuenca,50,9614.0,Empleado,2025-09-15
+109,Dora Huertas Lluch,21,12811.4,Empresario,2026-02-07
+110,Maura Haro Llobet,27,4148.4,Empleado,2025-05-30
+111,Pepe Macias Guitart,53,8467.0,Independiente,2023-12-25
+112,Esther Berrocal Chacón,25,22283.6,Independiente,2022-12-14
+113,Gregorio de Gargallo,39,6049.3,Empresario,2022-03-20
+114,Griselda Muro Solano,66,9306.6,Empresario,2025-03-16
+115,Cristian Rivera Porras,54,2676.0,Empresario,2026-08-21
+116,Tiburcio Pintor Tapia,40,23464.5,Empleado,2021-09-20
+117,Emma Porta Rius,29,8450.5,Empleado,2026-04-01
+118,Rosalía de Torrents,68,14947.5,Independiente,2023-07-15
+119,Isaías Torralba-Andres,39,16108.7,Empresario,2024-12-23
+120,Nayara Quiroga Dalmau,42,7080.9,Empresario,2025-08-24
+121,María Amores Prada,37,13871.7,Independiente,2026-06-21
+122,Ariel Romero Cerdá,24,4576.7,Independiente,2025-08-06
+123,Amador Juan Pinilla,38,3492.0,Independiente,2024-06-15
+124,Javi Morillo,70,5443.4,Independiente,2024-07-16
+125,Eligia Robles Iniesta,31,19177.7,Empresario,2022-05-14
+126,Agustina Azorin Olmo,66,12123.0,Empleado,2023-07-30
+127,Rosario Arjona Anguita,28,4193.0,Empresario,2023-10-10
+128,Simón Almagro,30,14775.8,Independiente,2022-12-19
+129,Bernardino del Carbó,58,14931.8,Independiente,2026-06-20
+130,Joan Jaén,29,3441.1,Independiente,2024-10-22
+131,Marcio Carbó Céspedes,23,22725.8,Empleado,2024-04-25
+132,Luis Miguel Amigó Mesa,64,8114.4,Empleado,2026-07-26
+133,Gisela Fiol Benitez,43,20052.6,Independiente,2023-09-26
+134,Pablo Mata Carrillo,60,19363.2,Empleado,2026-06-26
+135,Fulgencio Romero Pellicer,31,24464.6,Empleado,2022-04-04
+136,Miriam Nogueira,47,3057.7,Empresario,2021-10-11
+137,Sandra Trillo Camacho,42,20103.7,Independiente,2025-05-10
+138,Mercedes Segura Coronado,63,21941.4,Empleado,2025-05-17
+139,Quique Vélez León,38,6082.0,Empresario,2026-04-01
+140,Josefa Ruano Ledesma,27,11107.2,Empleado,2024-05-30
+141,Severo de Lorenzo,51,7504.8,Independiente,2025-07-03
+142,Remigio del Pinilla,43,9366.8,Empleado,2024-07-13
+143,Jose Miguel Morcillo Espada,35,3032.4,Empleado,2025-10-25
+144,Galo Jordán,46,9885.9,Empleado,2024-07-25
+145,Valerio Llorente-Agustín,70,8780.3,Empresario,2026-01-24
+146,Aristides Hernández,53,11492.8,Empresario,2025-02-15
+147,Manu Hernandez Tamayo,42,23632.8,Empleado,2025-11-04
+148,Rosa María Alemany Buendía,37,6517.8,Independiente,2024-03-04
+149,Hermenegildo de Medina,23,4939.1,Independiente,2026-08-13
+150,Juana Núñez Roig,43,18892.3,Independiente,2026-05-08
+151,Feliciana Santiago Lillo,48,16139.7,Empresario,2024-04-11
+152,David Carrillo-Fernández,28,11166.9,Empresario,2024-05-09
+153,Ramiro Esteve Feliu,33,8231.3,Empresario,2023-07-06
+154,Eliana Zamorano Luna,48,2538.1,Empresario,2022-07-11
+155,Eusebio Gordillo,64,18687.2,Empresario,2024-09-27
+156,Eutropio Alcalá Castañeda,68,17589.1,Independiente,2024-01-02
+157,Amando Manzano Cases,48,4074.4,Empresario,2025-11-05
+158,Tristán Alberola Luís,42,16521.0,Empresario,2025-08-30
+159,Isabela Niño Espinosa,28,18694.5,Independiente,2022-02-08
+160,Tomás Tejedor-Carbonell,53,9458.9,Independiente,2022-03-24
+161,Leandra Benavent Baeza,41,11554.0,Independiente,2022-12-17
+162,Santiago Mateu Blázquez,56,5364.0,Independiente,2023-10-13
+163,León Rico Gonzalez,63,23658.2,Empresario,2026-02-11
+164,Javiera Salas Martinez,68,22813.1,Empresario,2025-04-26
+165,Lucas Martín Barrena Cabezas,57,9271.4,Empresario,2023-06-09
+166,Eligio Bertrán,21,9337.2,Empleado,2023-01-02
+167,Chema de Crespi,48,20179.6,Empresario,2021-09-10
+168,Javiera Soriano Manuel,62,9750.6,Independiente,2021-12-12
+169,Ernesto del Santiago,49,17701.6,Empresario,2022-04-11
+170,Óscar del Figuerola,51,20359.0,Empresario,2025-04-14
+171,Lalo Gomila Company,31,17324.1,Independiente,2023-12-06
+172,Andrés Felipe Barreda Daza,53,17436.7,Empresario,2024-04-14
+173,Pilar Sara Malo Saavedra,42,4601.2,Empleado,2022-09-23
+174,Noemí Mateu Quevedo,64,9484.4,Empleado,2023-12-26
+175,Luz Uribe,30,3049.6,Empleado,2025-05-24
+176,Marcelino Ariño Rosales,51,16253.7,Empleado,2024-05-30
+177,Dionisia Alba Bravo Granados,50,11824.9,Empresario,2026-07-25
+178,Ainara Leon-Arjona,57,6874.8,Empresario,2023-02-28
+179,Lorenza Salamanca Lobo,45,13623.5,Empleado,2023-03-19
+180,Isa Téllez-Bou,30,17261.3,Empleado,2025-09-01
+181,Guadalupe Mínguez Montesinos,69,21859.9,Empleado,2022-07-23
+182,Fidel Requena Valbuena,70,12065.8,Empleado,2024-02-14
+183,Ruth Arco Sanz,65,14154.0,Empleado,2022-06-02
+184,Dolores Morales Carmona,56,8107.0,Empleado,2025-02-08
+185,Sara Abella,50,5500.1,Independiente,2026-04-14
+186,Haydée Ballester Expósito,63,14450.5,Empresario,2026-01-29
+187,María Ángeles Valentín Salamanca,59,9639.2,Independiente,2022-02-09
+188,Eliseo Castro,60,20837.6,Empresario,2024-02-13
+189,Vanesa Tormo Carrión,48,21187.8,Empresario,2021-11-30
+190,Rosalía Dafne Cuadrado Mercader,49,22687.2,Empresario,2026-05-10
+191,Leoncio Raya Buendía,51,12626.6,Empleado,2023-08-01
+192,Jerónimo Carpio Correa,61,8739.5,Empresario,2025-11-28
+193,José Manuel Patricio Llano Ribes,52,16601.8,Independiente,2025-10-10
+194,Daniela Saura Coca,49,4243.4,Independiente,2024-12-06
+195,Édgar Verdejo,36,8613.6,Independiente,2022-10-31
+196,Emiliano Ribera Nieto,55,4313.0,Empleado,2025-12-27
+197,Segismundo Acedo-Luna,35,11118.3,Empleado,2024-03-17
+198,Marina Tovar-Comas,66,7313.9,Independiente,2025-06-20
+199,Julie del Márquez,47,9944.8,Independiente,2026-05-13
+200,Florinda del Montserrat,47,3901.0,Independiente,2023-04-11
+201,Lucho del Guillen,45,22858.9,Empresario,2025-03-01
+202,Federico Suárez Piquer,65,2939.5,Empresario,2024-12-14
+203,Jose Miguel Arco Cases,45,13232.0,Independiente,2025-12-10
+204,Eusebia Cabrera-Sacristán,40,19453.2,Independiente,2022-07-08
+205,Zaida Saura,55,19319.1,Empresario,2021-10-19
+206,Hernando Cortes Benavides,59,22700.8,Independiente,2025-08-30
+207,Fortunato Puga-Bernat,35,8641.0,Independiente,2024-06-18
+208,Fortunata del Torrents,22,11249.3,Empresario,2026-04-09
+209,Martin Bayona Guitart,64,20458.2,Empresario,2024-02-11
+210,Raúl de Roura,31,21411.4,Empleado,2022-07-04
+211,Iván Delgado Marí,60,14517.8,Independiente,2021-11-30
+212,Fermín Barba Marcos,58,15198.8,Empleado,2024-09-19
+213,Irene Coello Hidalgo,26,16961.9,Empleado,2026-03-10
+214,Marcia Escolano Domínguez,50,6588.9,Independiente,2023-02-27
+215,Marcos Piñeiro Hernando,45,9865.4,Independiente,2025-11-26
+216,Bienvenida Guerra-Serra,41,10093.8,Independiente,2023-10-31
+217,Dominga Agustí Sola,38,19420.2,Independiente,2024-02-12
+218,Camila de Sala,37,21285.5,Independiente,2024-08-10
+219,Emperatriz Rodrigo-Ibáñez,22,19353.0,Empleado,2025-07-22
+220,Conrado Gregorio Tomas Campillo,43,7545.0,Empleado,2023-09-08
+221,Marianela Palomar Marqués,70,24038.9,Empleado,2024-03-07
+222,Severino Priego Llobet,69,3198.2,Empleado,2021-09-27
+223,Teresa Avilés-Valdés,33,21382.6,Empresario,2024-02-08
+224,Marcio del Gilabert,30,7867.3,Independiente,2023-04-15
+225,Dionisia Nidia Cerro Caballero,63,5073.8,Empleado,2022-01-02
+226,Rufino Isidro Aragonés Patiño,50,18238.0,Independiente,2022-10-15
+227,Wálter Marquez Morillo,31,16132.6,Empresario,2025-03-15
+228,Cornelio Catalán Paz,66,5077.0,Empleado,2026-03-09
+229,Zaira Llamas,40,4932.2,Empleado,2023-01-26
+230,Yago Tirado-Marquez,40,15455.4,Independiente,2024-07-20
+231,Joaquín Benet Chico,46,23683.1,Empleado,2023-08-03
+232,Soraya Paz Bosch,25,15822.2,Empresario,2025-01-09
+233,Eligio Casals Sanz,36,4792.8,Independiente,2024-10-21
+234,Luís Piquer-Pera,64,16009.3,Empleado,2022-08-04
+235,Jonatan de Mosquera,57,20109.3,Independiente,2023-07-21
+236,Maximino Simó Matas,55,12138.5,Independiente,2025-02-21
+237,Buenaventura Arrieta Arcos,25,13884.1,Independiente,2024-04-04
+238,Azahar Cabanillas Guitart,21,21615.5,Independiente,2026-03-30
+239,Guillermo Santiago Peláez,27,12254.3,Independiente,2026-04-07
+240,Maristela Cortes Ribera,61,22560.4,Independiente,2022-07-06
+241,María Manuela Raya Losa,66,5942.3,Empleado,2021-12-12
+242,Concha Salcedo Sales,67,14239.3,Empresario,2023-09-05
+243,Ariel Pedrero Palmer,38,16358.0,Empresario,2022-03-09
+244,Eliana Falcó Carvajal,70,13378.7,Independiente,2025-07-15
+245,Natanael Garay Almazán,67,15830.7,Independiente,2022-02-06
+246,Daniela Casas Fuertes,36,21191.4,Empleado,2022-04-03
+247,Claudia de Guijarro,38,22336.7,Empleado,2024-06-18
+248,Rufino Acedo Lluch,69,12955.9,Empresario,2022-11-25
+249,Julián Iglesia Díaz,63,11027.3,Empleado,2022-08-09
+250,Blas Alcolea Palma,52,21646.4,Empleado,2023-09-11
+251,Etelvina Alcázar-Dávila,52,7272.7,Independiente,2023-12-05
+252,Bernardino Robledo Zorrilla,42,8792.3,Empresario,2022-08-21
+253,Jordán Sanabria Paredes,65,22302.4,Empresario,2026-01-13
+254,Asunción Sans-Vara,21,14124.1,Empleado,2023-07-22
+255,Amada Pascuala Vázquez Mata,26,7930.5,Independiente,2025-07-26
+256,Américo Tejero Querol,52,14991.5,Empleado,2025-04-18
+257,Jose Luis Salcedo Beltrán,65,13212.1,Empresario,2022-05-11
+258,María Fernanda Colomer Bastida,52,12583.9,Empleado,2022-09-29
+259,Mateo Morcillo-Piquer,26,9120.3,Independiente,2026-03-08
+260,Javi José Antonio Ros Cabezas,65,7974.4,Empresario,2022-08-23
+261,Palmira de Ropero,58,10803.0,Empresario,2025-07-05
+262,Hilario del Santana,54,10234.5,Empresario,2025-01-22
+263,Pastora Bustamante Milla,56,9942.8,Empresario,2025-04-19
+264,Natalia Jara Perelló,50,8595.6,Independiente,2022-12-20
+265,Anabel Bou Blázquez,35,5214.8,Empleado,2022-06-18
+266,Ariadna Peralta Castillo,41,5190.0,Empresario,2026-05-27
+267,Lázaro Murcia Carvajal,69,18028.7,Empleado,2025-03-01
+268,Trinidad Rocha Aznar,34,19118.6,Independiente,2024-02-12
+269,Esperanza Feliciana Calleja Vera,67,15765.7,Empresario,2023-06-24
+270,Nando Toledo Gomez,59,8867.5,Empleado,2022-08-04
+271,Sonia Pedrero Cardona,33,9165.5,Independiente,2024-01-15
+272,Coral Romeu-Amo,32,9301.0,Empresario,2023-12-11
+273,Cipriano Llano Mendizábal,55,5348.1,Empleado,2024-07-23
+274,Adelaida Escudero Clemente,24,14950.6,Empresario,2026-06-27
+275,Anastasia Cifuentes Anglada,29,16852.1,Independiente,2022-06-14
+276,Concepción Peñalver,27,22136.2,Empresario,2025-03-29
+277,Evita Criado Pelayo,39,13061.4,Independiente,2024-04-27
+278,Renata Blazquez Badía,42,6648.2,Empleado,2022-12-29
+279,René Ayala Bilbao,37,23673.9,Independiente,2023-12-26
+280,Nadia Rodrigo Torralba,28,20997.6,Independiente,2025-06-06
+281,Elena Garriga Vila,52,4166.8,Empresario,2022-08-21
+282,Irene Cantero Luque,64,3706.2,Empleado,2025-10-22
+283,Natividad Mendez,57,23855.3,Empleado,2022-01-21
+284,Hector de Aguilera,36,5165.2,Independiente,2023-05-30
+285,Curro Rodolfo Cervantes Jaume,59,15912.9,Empresario,2024-02-18
+286,Azeneth Aguilera Valencia,35,19953.1,Independiente,2025-05-01
+287,Berto Pinto Grau,49,22941.3,Independiente,2025-12-04
+288,Serafina del Bello,58,24775.7,Independiente,2025-01-17
+289,Isaías Alfonso Segura,57,16473.1,Empresario,2022-05-01
+290,Maricela Román Quiroga,68,4732.8,Empleado,2025-03-22
+291,Baudelio Hermenegildo Almansa Morcillo,61,7248.1,Empresario,2023-02-17
+292,Jimena Selena Paredes Borja,26,6033.8,Empleado,2025-05-20
+293,Domingo Ruano Pérez,56,4189.0,Empleado,2026-02-15
+294,Hector Menéndez Nicolás,47,12636.3,Empresario,2023-07-22
+295,Reyes Diéguez Benito,51,9053.3,Empleado,2026-01-05
+296,Juan Manuel Viana Ferrera,39,18406.5,Empresario,2024-08-22
+297,Pascuala Coloma Guzman,50,4101.5,Empleado,2022-07-18
+298,Eduardo Figueroa Durán,37,20226.1,Empresario,2022-12-20
+299,Chus Uribe Simó,58,17376.6,Empleado,2026-06-19
+300,Jacinta Moraleda-Molina,48,5082.5,Empleado,2022-12-15
+301,Anabel Somoza Salamanca,62,5852.3,Independiente,2024-03-30
+302,Manolo Barbero-Ortiz,30,4106.7,Empleado,2025-12-26
+303,Fabián Serrano Sans,40,15888.5,Empresario,2021-12-27
+304,Gerónimo Madrid Benítez,39,12381.0,Independiente,2022-06-09
+305,Martirio Lilia Planas Sevillano,65,9342.1,Independiente,2026-08-10
+306,Rosa María de Sandoval,38,13760.6,Independiente,2026-07-14
+307,Felipe Tamarit,49,4309.9,Empleado,2025-12-07
+308,Américo Sanjuan Calderón,48,19027.0,Empresario,2024-08-04
+309,José Antonio Duque Ariza,37,3082.0,Empleado,2023-10-11
+310,Isabel Zamora Yáñez,64,21309.1,Empresario,2023-01-08
+311,Florencia Luna Ponce,58,23892.7,Empresario,2025-02-23
+312,Nidia Badía Nadal,38,15465.6,Empleado,2022-03-25
+313,Arcelia Pomares Luz,51,14176.7,Independiente,2023-10-24
+314,Trinidad Brígida Mínguez Bertrán,38,6583.5,Empresario,2026-08-17
+315,Álvaro Olmo Menéndez,48,16782.7,Independiente,2025-01-01
+316,Manuel Blazquez Menendez,26,13075.2,Independiente,2026-06-04
+317,Milagros Moya Castell,42,9723.8,Empleado,2026-02-23
+318,Mohamed Roda Verdugo,31,9920.6,Empresario,2024-09-30
+319,Gerardo Mendizábal Escribano,52,8984.9,Independiente,2023-06-29
+320,Raquel Torre Fernandez,69,14877.2,Independiente,2023-08-06
+321,Casemiro Berenguer Marqués,26,9576.6,Independiente,2022-07-13
+322,Regina Zurita,28,24329.2,Independiente,2021-12-28
+323,Valentina Castro Peñas,53,21060.9,Empleado,2022-12-25
+324,Cipriano Daza Río,63,22060.8,Independiente,2022-01-15
+325,Filomena Gámez Saldaña,47,3719.6,Empresario,2024-02-04
+326,Cruz Haro Mendoza,44,16509.3,Independiente,2025-08-29
+327,Gerónimo Saez,61,12445.9,Empleado,2025-08-06
+328,Roque Graciano Valverde Álamo,34,8508.8,Empleado,2025-03-25
+329,Sebastian Flores Chacón,39,12357.6,Empresario,2023-10-18
+330,Miguel Ángel Terrón Pera,52,5232.1,Empresario,2026-05-21
+331,Pelayo Villalobos Casanovas,59,20484.6,Empresario,2024-02-04
+332,Rico Cueto Llamas,31,9491.9,Empleado,2025-06-28
+333,Brunilda Ruiz,56,11679.8,Empleado,2022-06-13
+334,Sebastian del Olmedo,28,12882.6,Empleado,2021-11-23
+335,Amelia Prieto Vallés,62,21223.2,Independiente,2024-11-06
+336,Guadalupe de Perera,66,9066.9,Empresario,2023-07-31
+337,Feliciano Cabeza Naranjo,38,11848.5,Independiente,2022-11-29
+338,Alejo Madrid Sureda,51,7983.9,Empresario,2022-11-07
+339,Jacinta Adadia Bernad,30,11130.7,Empresario,2021-10-31
+340,Cándido Conde-Álamo,53,19291.6,Empleado,2025-04-09
+341,Román Maldonado Gámez,25,8715.6,Independiente,2024-03-25
+342,Amado Gómez Rivas,42,23520.6,Empresario,2025-07-23
+343,Bartolomé Valero Alegre,38,20962.4,Independiente,2026-01-20
+344,Dalila Cobo-Manuel,67,9217.5,Empresario,2025-04-27
+345,Marino Osorio Hernandez,58,24975.3,Independiente,2026-07-10
+346,Cayetana Boada Zabaleta,30,12547.3,Independiente,2024-09-26
+347,Juan José Vera Vera,43,9979.9,Empresario,2026-05-20
+348,Guiomar Soriano Arranz,45,12745.3,Independiente,2024-12-16
+349,Dolores Alegre Palau,33,24567.4,Empleado,2022-03-30
+350,Dalila Calleja Márquez,57,11116.8,Independiente,2022-10-21
+351,Gabriel Nevado Díez,23,9659.0,Independiente,2025-08-15
+352,Melania Esparza Cepeda,66,23052.2,Independiente,2022-03-17
+353,Alicia Marcos Fortuny,45,24739.3,Empresario,2022-01-16
+354,Venceslás Arnaiz,30,13644.9,Empleado,2024-05-09
+355,José Ángel Heliodoro Sáenz Isern,29,13801.6,Empresario,2021-12-24
+356,Eric Palau,42,22068.3,Independiente,2022-01-28
+357,Elena Casanova Pedro,27,14333.9,Independiente,2025-05-21
+358,Perlita Sabater Pomares,21,18755.0,Independiente,2024-07-21
+359,Jose Ramón Valencia Pedrero,62,24324.0,Empleado,2026-02-01
+360,Salvador Blanch-Rodriguez,51,20084.3,Independiente,2022-05-05
+361,María Cristina Escribano Marin,42,16523.3,Independiente,2024-05-26
+362,Aníbal Mosquera Marqués,62,4307.1,Independiente,2024-04-11
+363,María Cristina Rojas Diaz,64,21835.2,Independiente,2025-06-12
+364,Itziar Arnal Osorio,41,16603.0,Independiente,2025-05-15
+365,Miguel Barceló-Benavides,55,3307.7,Empleado,2025-02-15
+366,Loida Cuesta Anguita,36,16701.1,Independiente,2022-11-19
+367,Nidia Ricarda Ríos Arana,35,19302.2,Independiente,2022-09-29
+368,Desiderio Pazos Paredes,27,19608.3,Empresario,2024-12-04
+369,Alejandra Corral-Sandoval,27,12482.8,Empresario,2024-10-28
+370,Isidora Benítez Cervantes,40,22827.0,Empleado,2026-03-04
+371,Gisela Miralles Lopez,41,20413.2,Independiente,2023-10-17
+372,Albert Estrada Valera,43,10933.9,Empleado,2026-01-27
+373,Zaira Carranza Juárez,36,14451.2,Empresario,2023-11-19
+374,Clotilde Machado Tudela,64,20331.7,Empleado,2023-05-16
+375,Borja Benavent Sans,32,4276.8,Independiente,2023-02-20
+376,Antonia Montenegro Olivera,60,17870.5,Independiente,2022-03-22
+377,Macarena del Marín,58,5720.1,Independiente,2023-01-04
+378,Régulo Pardo Verdugo,61,8214.5,Independiente,2023-07-30
+379,Cornelio Chamorro Guzmán,63,2711.4,Independiente,2025-11-14
+380,Geraldo Peinado Solsona,39,17746.2,Empleado,2026-05-12
+381,Mariano Boix Bastida,25,12438.9,Independiente,2024-04-19
+382,Paca Tejero Zaragoza,58,9231.0,Independiente,2025-03-01
+383,Sandra Benavent Casares,65,8127.2,Independiente,2024-05-13
+384,Jafet Solano Villar,33,24985.9,Independiente,2024-08-07
+385,Valentín Espada Castelló,27,7837.1,Empresario,2025-05-08
+386,Zaida Baquero,43,15433.3,Empresario,2022-09-22
+387,Calista Mateu,39,2993.6,Empresario,2023-01-26
+388,Felix Gomis Oliva,46,8675.8,Empresario,2026-01-31
+389,Teo Aníbal Iglesia Ferrándiz,64,20012.0,Empleado,2026-05-10
+390,Bernardino Mateo-Bueno,59,19266.4,Independiente,2025-12-11
+391,Manu Correa Donoso,70,20474.4,Empresario,2024-07-16
+392,Alondra Andrade-Bertrán,43,7427.6,Empleado,2022-01-21
+393,Dulce Galvez-Riera,60,8139.1,Empresario,2021-12-05
+394,Vilma Manjón Matas,70,17331.6,Empleado,2025-10-11
+395,Samuel del Martorell,61,4686.2,Empresario,2025-07-12
+396,Omar Barreda Cruz,62,3387.0,Independiente,2025-05-29
+397,Julie Sobrino Frías,23,15540.4,Empresario,2024-07-24
+398,Bienvenida Estefanía Montaña Ojeda,29,4528.0,Independiente,2025-01-22
+399,Ricardo Pellicer Villa,41,19318.3,Empleado,2026-06-12
+400,Feliciano Herranz Soler,33,5473.6,Empresario,2022-09-17
+401,Jafet Huguet-Chico,44,14444.2,Independiente,2022-06-29
+402,Espiridión Plana Ripoll,31,8281.8,Independiente,2023-10-13
+403,Santos Morán Milla,39,19297.6,Independiente,2023-04-14
+404,Josep Villa Solera,28,13037.5,Empleado,2025-11-29
+405,Jose Ramón Aitor Bosch Pozuelo,30,19468.4,Empleado,2025-12-20
+406,Dalila Garrido Osorio,64,18794.9,Independiente,2022-01-31
+407,Epifanio Uría Sosa,56,10729.9,Independiente,2024-02-06
+408,Adelia de Rosa,21,8450.3,Empleado,2022-10-23
+409,Prudencio Paz-Quintana,50,10793.2,Empresario,2024-10-12
+410,Herberto Azcona Ferreras,64,8398.6,Independiente,2024-10-02
+411,Elvira de Pomares,61,23656.6,Empleado,2025-12-16
+412,Ramona Losa Carrera,64,7761.0,Empleado,2022-10-06
+413,Haroldo Perea Nicolau,60,22395.3,Empresario,2026-06-01
+414,Priscila Cobos Flor,41,23093.3,Empleado,2025-12-31
+415,Leyre Arjona Arrieta,62,3922.4,Independiente,2021-12-31
+416,Pepe Mínguez Sáez,65,9299.3,Independiente,2026-02-01
+417,Brígida Villalba Chaves,28,5645.0,Empleado,2024-06-16
+418,Esther Candelas Pozo Martínez,40,24908.4,Empleado,2024-07-13
+419,Saturnina Vergara,27,7783.0,Empresario,2026-03-13
+420,Olga Marí Taboada,29,11244.5,Independiente,2021-10-23
+421,Eusebia Canals Riera,63,23861.1,Empresario,2026-08-20
+422,Rómulo Vinicio Amor Sánchez,55,11930.4,Empresario,2023-12-05
+423,Maricruz Goñi-Aznar,67,5976.8,Independiente,2026-08-19
+424,Carlota Zamora Pinto,62,4728.0,Independiente,2022-12-05
+425,Alcides de Farré,60,11682.6,Independiente,2021-10-30
+426,Estefanía Riquelme Cordero,23,18031.3,Empleado,2025-03-08
+427,Hernán Valls,49,12505.7,Empleado,2025-09-06
+428,Patricio Cervera Villena,44,4735.5,Empresario,2023-06-08
+429,Eufemia del Zaragoza,44,14750.5,Empresario,2024-11-15
+430,Carmela Segura Noriega,43,3862.4,Independiente,2026-04-26
+431,Nicolasa Lamas Tomé,33,24284.7,Independiente,2023-04-22
+432,Emilio del Gomila,26,17412.3,Empresario,2024-03-14
+433,Pastor Cristóbal Torrijos Molins,61,15935.8,Empleado,2025-10-01
+434,Manuelita Llanos Maestre,24,20202.9,Empleado,2022-09-15
+435,Nicolasa Pino-Prat,29,20207.0,Empleado,2024-08-09
+436,Espiridión Arnal Maestre,25,21170.9,Empresario,2022-05-05
+437,Ángela Salamanca Jerez,34,15693.6,Empleado,2025-09-29
+438,Cosme Linares,42,19923.3,Empresario,2026-06-14
+439,Bruno Canales-Heras,21,8738.7,Empleado,2023-09-25
+440,Nicanor Gonzalez Guerrero,29,14654.8,Empleado,2022-02-12
+441,Hilario Murillo Sureda,28,17373.8,Empleado,2022-07-11
+442,Abilio Cruz Ramírez,29,2834.4,Empleado,2025-09-18
+443,Modesta Flores Madrigal,58,9784.9,Empleado,2024-05-26
+444,Mohamed Amor Borrás Guerra,37,3679.0,Empresario,2026-03-22
+445,Yago Díez Rios,47,14336.9,Empresario,2023-03-02
+446,Silvio Puerta Valbuena,25,13215.5,Independiente,2023-04-03
+447,Urbano Alejo Agullo Martín,53,15857.5,Independiente,2026-07-02
+448,Ascensión Áurea Naranjo Luís,53,7484.9,Empresario,2025-07-14
+449,Luciana del Cañete,23,18863.0,Empresario,2025-12-16
+450,Elena Fernández Capdevila,54,9286.7,Empresario,2024-06-25
+451,Pío Segarra Jimenez,22,3868.6,Independiente,2023-04-03
+452,Rafa Navas Marquez,46,12091.2,Empleado,2026-07-02
+453,Chucho Ramirez,52,18529.0,Independiente,2025-04-22
+454,Eugenia Bolaños,25,22733.5,Independiente,2025-01-29
+455,Cirino Checa Tejada,59,5837.5,Empleado,2024-06-03
+456,Abraham del Pla,38,16547.1,Empresario,2023-09-03
+457,Primitiva Lasa Murcia,56,18523.4,Independiente,2024-03-28
+458,Paloma Alberdi-Jurado,59,14437.5,Independiente,2024-09-23
+459,Américo de Solana,53,16122.1,Empleado,2024-04-12
+460,Hermenegildo Valverde Mercader,65,5074.3,Empresario,2022-09-01
+461,Gerónimo Marino Giner Gilabert,62,22248.4,Empresario,2022-10-21
+462,Calista Sanz Pereira,67,21973.6,Independiente,2025-03-16
+463,Zaira del Gil,49,22482.0,Independiente,2023-10-10
+464,Trinidad Rocío Bilbao Zaragoza,42,21116.9,Independiente,2025-06-20
+465,Ofelia Pardo,47,18916.3,Independiente,2022-05-02
+466,Aurelia Barrio-Vega,48,9531.8,Independiente,2023-05-23
+467,Lupe Conde-Córdoba,44,23955.8,Empresario,2024-06-17
+468,Isaura Carnero,51,4010.5,Empleado,2023-06-02
+469,Laura Bou-Vicens,26,12217.2,Empresario,2025-06-17
+470,Javi Catalán Vilanova,68,10884.6,Empleado,2025-03-15
+471,Marcela Barco Sevilla,56,3849.6,Empresario,2024-04-16
+472,Hector Iñiguez Acero,56,9917.0,Empleado,2023-07-10
+473,Angelina Arrieta-Roda,47,10456.0,Empresario,2024-08-07
+474,Kike Barrena Bayón,69,12016.1,Empresario,2025-09-07
+475,Eric Rebollo Escolano,24,24289.0,Empresario,2022-10-27
+476,Florentina Piñeiro Sanabria,40,10412.0,Empresario,2024-11-17
+477,Anita Cañas Oliveras,53,7286.6,Empresario,2022-09-05
+478,Julio César Pozo Ángel,51,7545.5,Empleado,2022-10-02
+479,Silvestre de Alsina,43,21520.9,Independiente,2024-03-16
+480,Nerea Rodrigo Pinilla,28,19658.6,Empresario,2023-08-16
+481,Jeremías del Cortina,35,20662.5,Empresario,2024-01-06
+482,Urbano Carbajo,70,20914.6,Empresario,2021-12-11
+483,María Luisa Alcázar Hernandez,64,16960.7,Empleado,2023-06-04
+484,Aureliano Aragonés Salom,59,23404.4,Empresario,2022-01-31
+485,Raimundo de Quesada,38,3151.4,Independiente,2025-05-27
+486,Julián de Barbero,65,19654.2,Independiente,2022-11-11
+487,Ema Guillén,43,2637.4,Empleado,2026-07-27
+488,Maricruz Montes Gálvez,57,17290.3,Empleado,2024-03-27
+489,Natalio Vázquez Giner,30,19171.8,Empleado,2025-03-09
+490,Emigdio Américo Díez Roldán,26,19287.5,Empleado,2026-05-25
+491,Amanda Ocaña Piquer,45,11946.2,Independiente,2026-02-17
+492,Obdulia Rico Real,31,10826.2,Empresario,2022-12-09
+493,Godofredo Cirino Sáenz Hernando,41,19978.8,Empresario,2023-08-03
+494,Timoteo Paulino Cobos Sierra,59,4411.5,Empleado,2022-02-28
+495,Haydée del Cañete,30,6041.7,Empresario,2024-12-21
+496,Edu de Murillo,24,17664.3,Independiente,2022-05-05
+497,Soraya Peláez Bru,49,17393.6,Independiente,2026-03-24
+498,Amancio Ledesma,59,12446.0,Independiente,2024-11-16
+499,María Cristina Almudena Beltran Fabra,34,19486.2,Empleado,2026-09-01
+500,Concha del Gallardo,43,12173.1,Independiente,2024-07-02

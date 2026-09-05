@@ -23,6 +23,9 @@ mora_por_producto = df_completo.groupby('producto')['estado'].apply(
     lambda x: (x == 'Atrasado').mean() * 100
 ).round(1)
 
+mora_general = (df_completo['estado'] == 'Atrasado').mean() * 100
+print(f"Mora general de la cartera: {mora_general:.1f}%")
+
 print(mora_por_producto)
 
 

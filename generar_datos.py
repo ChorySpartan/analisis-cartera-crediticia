@@ -54,13 +54,22 @@ def generar_prestamos(clientes):
 def generar_pagos(prestamos):
     pagos = []
     pago_id = 1
+
+    pesos_mora_por_producto = {
+        'Hipotecario':        [85, 8, 4, 2, 1],     # 15% de mora
+        'Personal':           [63, 17, 9, 6, 5],    # 37% de mora
+        'Vehicular':          [65, 17, 9, 5, 4],    # 32% de mora
+        'Tarjeta de Crédito': [68, 16, 8, 5, 3],    # 32% de mora
+    }
+
     for prestamo in prestamos:
+        pesos = pesos_mora_por_producto[prestamo['producto']]
         num_pagos = random.randint(3, prestamo['plazo_meses'])
         for cuota in range(1, num_pagos + 1):
             dias_atraso = random.choices(
                 [0, random.randint(1, 30), random.randint(31, 60),
                  random.randint(61, 90),
-                 random.randint(91, 180)], weights=[70, 15, 8, 4, 3]
+                 random.randint(91, 180)], weights=pesos
             )[0]
             pago = {
                 'pago_id': pago_id,
