@@ -51,19 +51,41 @@ def generar_prestamos(clientes):
 
 #Pagos
 
-def generar_pagos(prestamos):
+def generar_pagos(prestamos, clientes):
     pagos = []
     pago_id = 1
 
-    pesos_mora_por_producto = {
-        'Hipotecario':        [85, 8, 4, 2, 1],     # 15% de mora
-        'Personal':           [63, 17, 9, 6, 5],    # 37% de mora
-        'Vehicular':          [65, 17, 9, 5, 4],    # 32% de mora
-        'Tarjeta de Crédito': [68, 16, 8, 5, 3],    # 32% de mora
+    # Diccionario de búsqueda rápida: cliente_id -> ocupacíon
+
+    ocupacion_por_cliente = {c['cliente_id']: c['ocupacion'] for c in clientes}
+
+    pesos_mora_por_producto_ocupacion = {
+        'Hipotecario': {
+            'Empleado':      [81, 10, 5, 3, 1],
+            'Independiente': [85, 8, 4, 2, 1],
+            'Empresario':    [89, 6, 3, 1, 1],
+        },
+        'Personal': {
+            'Empleado':      [59, 18, 10, 7, 6],
+            'Independiente': [63, 17, 9, 6, 5],
+            'Empresario':    [67, 16, 8, 5, 4],
+        },
+        'Vehicular': {
+            'Empleado':      [61, 19, 10, 6, 4],
+            'Independiente': [65, 17, 9, 5, 4],
+            'Empresario':    [69, 15, 8, 4, 4],
+        },
+        'Tarjeta de Crédito': {
+            'Empleado':      [64, 18, 9, 6, 3],
+            'Independiente': [68, 16, 8, 5, 3],
+            'Empresario':    [72, 14, 7, 4, 3],
+        },
     }
 
     for prestamo in prestamos:
-        pesos = pesos_mora_por_producto[prestamo['producto']]
+        ocupacion_cliente = ocupacion_por_cliente[prestamo['cliente_id']]
+        pesos = pesos_mora_por_producto_ocupacion[prestamo['producto']][ocupacion_cliente]
+
         num_pagos = random.randint(3, prestamo['plazo_meses'])
         for cuota in range(1, num_pagos + 1):
             dias_atraso = random.choices(
@@ -95,7 +117,7 @@ if __name__ == '__main__':
     guardar_csv(prestamos, 'datos/prestamos.csv')
     print(f"Generados {len(prestamos)} prestamos")
 
-    pagos = generar_pagos(prestamos)
+    pagos = generar_pagos(prestamos, clientes)
     guardar_csv(pagos, 'datos/pagos.csv')
     print(f"Generados {len(pagos)} pagos")
 
